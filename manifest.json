@@ -1,0 +1,24 @@
+{
+  "manifestVersion": 1,
+  "executable": "g-assist-plugin-visual.exe",
+  "persistent": false,
+  "passthrough": false,
+  "functions": [
+    {
+      "name": "check_screen",
+      "description": "Check screen details as user asked for.",
+      "tags": [
+        "visual",
+        "screen",
+        "ask",
+        "details"
+      ],
+      "properties": {
+        "prompt": {
+          "type": "string",
+          "description": "The prompt for check the screen"
+        }
+      }
+    }
+  ]
+}

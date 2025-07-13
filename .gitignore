@@ -1,0 +1,9 @@
+visual
+GG-Assist
+dist/
+build/
+.venv/
+config.json
+*.spec
+models
+__pycache__
