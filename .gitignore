@@ -7,3 +7,4 @@ config.json
 *.spec
 models
 __pycache__
+venv
